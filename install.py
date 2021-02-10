@@ -7,4 +7,4 @@ try:
 except:
     print("whoops something went wrong. Send me a screenshot so I can debug :D")
 else:
-    print("Installation Finished :D aaaaaaaay well done kooki!")    
+    print("Installation Finished :D")    
